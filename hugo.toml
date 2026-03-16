@@ -1,0 +1,16 @@
+baseURL = "https://lzmien.github.io/"
+languageCode = "zh-CN"
+title = "李泽民的博客网站"
+theme = "PaperMod"
+
+[params]
+  description = "网站描述"
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+	
+	
+	
